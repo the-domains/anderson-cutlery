@@ -1,26 +1,14 @@
 layout_spectrum: 0.4297872
-name: Anderson Cutlery
 typography_spectrum: 0.4191489
 color:
+  lightness: 0
   brandStrength: 0.666055
   saturation: 1
+  rhythmicContrast: 0.5915265
   brandColors:
     - '#71A7FE'
     - '#399AE7'
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  lightness: 0
-  rhythmicContrast: 0.5915265
-collections:
-  - index:
-      navigable: true
-      path: /
-      number: 15
-      paginate: true
-    feed:
-      format: rss
-      path: /rss.xml
-      number: 10
-    permalink:
-      path: '/:title/'
+name: Anderson Cutlery
